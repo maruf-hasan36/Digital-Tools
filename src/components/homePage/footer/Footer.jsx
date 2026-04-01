@@ -44,7 +44,6 @@ const Footer = () => {
 
             {/* Social Icons */}
             <div className="flex justify-center gap-3">
-            
               <a
                 href=""
                 className=" w-8 h-8 bg-white rounded-full flex items-center justify-center"
@@ -72,13 +71,13 @@ const Footer = () => {
         <div className="footer sm:footer-horizontal  p-4 flex flex-col md:flex-row items-center  md:justify-between">
           <aside>
             <p className="text-white/50">
-              Copyright © {new Date().getFullYear()} - All right reserved by
-              ACME Industries Ltd
+              Copyright © {new Date().getFullYear()} -Mehedi @ All right
+              reserved by ACME Industries Ltd
             </p>
           </aside>
           <ul className="flex items-center gap-7 flex-wrap ">
             <li>
-              <a className="link link-hover text-white/50">Privacy Policy  </a>
+              <a className="link link-hover text-white/50">Privacy Policy </a>
             </li>
             <li>
               <a className="link link-hover text-white/50">Terms of Service</a>
