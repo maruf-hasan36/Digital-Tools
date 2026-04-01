@@ -20,7 +20,7 @@ const productsPromise = fetchProductsData();
 function App() {
   // const productsPromise = fetchProductsData();
 
-  const [activeTab, setActiveTab] = useState("prod");
+  const [activeTab, setActiveTab] = useState("product");
 
   const [carts, setCarts] = useState([]);
   // console.log(carts);
