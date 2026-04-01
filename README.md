@@ -12,7 +12,7 @@ Discover powerful AI tools, creative assets, templates, and productivity softwar
 
 ## 🚀 About the Project
 
-**Digital Tools** is a visually stunning and fully responsive digital marketplace interface built using React. It combines elegant design with practical functionality, offering users a smooth and engaging browsing experience.
+**Digital Tools** is a visually stunning and fully responsive digital marketplace interface built using React. Its combines elegant design with practical functionality, offering users a smooth and engaging browsing experience.
 
 From exploring high-quality digital products to managing purchases effortlessly, every interaction is designed with usability and performance in mind. The UI is inspired by professional Figma designs and implemented with pixel-perfect precision to deliver a premium feel.
 
