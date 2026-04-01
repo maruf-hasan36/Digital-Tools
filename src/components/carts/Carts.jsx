@@ -48,7 +48,7 @@ const Carts = ({ carts, setCarts }) => {
             </div>
             <div className="flex justify-between items-center mb-8">
               <h2 className="text-xl md:text-2xl font-semibold text-black/80">
-                Total Amount
+                Total Amounts
               </h2>
               <div className="text-right">
                 <p className="text-3xl md:text-5xl font-bold text-gray-900 ">
